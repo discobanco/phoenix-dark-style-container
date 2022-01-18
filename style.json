@@ -6,7 +6,7 @@
         "id": "background",
         "type": "background",
         "paint": {
-            "background-color": "#d3d3d3"
+            "background-color": "#000000"
         }
     }]
 }
