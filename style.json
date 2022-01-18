@@ -2,6 +2,7 @@
     "version": 8,
     "name": "Phoenix Dark",
     "sources": {},
+    "attribution": "",
     "layers": [{
         "id": "background",
         "type": "background",
